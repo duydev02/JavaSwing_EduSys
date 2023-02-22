@@ -114,7 +114,7 @@
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
           <Image iconType="3" name="/com/edusys/icon/logo2.png"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="facebook.com/duymoiz/"/>
+        <Property name="text" type="java.lang.String" value="facebook.com/duydev02/"/>
       </Properties>
     </Component>
   </SubComponents>

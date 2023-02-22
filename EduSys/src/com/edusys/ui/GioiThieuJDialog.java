@@ -58,7 +58,7 @@ public class GioiThieuJDialog extends javax.swing.JDialog {
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/edusys/icon/logo2.png"))); // NOI18N
-        jLabel1.setText("facebook.com/duymoiz/");
+        jLabel1.setText("facebook.com/duydev02/");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -100,7 +100,7 @@ public class GioiThieuJDialog extends javax.swing.JDialog {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnDongActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnDongActionPerformed
-        System.exit(0);
+        GioiThieuJDialog.this.dispose();
     }//GEN-LAST:event_btnDongActionPerformed
 
     /**
