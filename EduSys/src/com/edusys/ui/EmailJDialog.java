@@ -79,7 +79,6 @@ public class EmailJDialog extends javax.swing.JDialog {
         jLabel1.setText("  Email");
 
         jPanel1.setBackground(new java.awt.Color(204, 255, 204));
-        jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Email gửi", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Tahoma", 0, 14))); // NOI18N
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jLabel2.setText("Username:");
@@ -91,7 +90,7 @@ public class EmailJDialog extends javax.swing.JDialog {
         txtUser.setText("duyhmps16073@fpt.edu.vn");
 
         txtPass.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
-        txtPass.setText("NhinCaiLon7");
+        txtPass.setText("nhinfcaisloonf7;");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -123,7 +122,6 @@ public class EmailJDialog extends javax.swing.JDialog {
         );
 
         jPanel2.setBackground(new java.awt.Color(255, 204, 204));
-        jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Email nhận", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Tahoma", 0, 14))); // NOI18N
 
         txtTo.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         txtTo.setText("minhduy12581@gmail.com, hiimlinhlinh@gmail.com, duyhmps16073@fpt.edu.vn");
@@ -200,7 +198,7 @@ public class EmailJDialog extends javax.swing.JDialog {
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel2Layout.createSequentialGroup()
-                .addContainerGap(32, Short.MAX_VALUE)
+                .addContainerGap(80, Short.MAX_VALUE)
                 .addComponent(jLabel8)
                 .addGap(18, 18, 18)
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
